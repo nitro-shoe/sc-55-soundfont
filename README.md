@@ -1,5 +1,5 @@
 # Roland SC-55 soundfont
-A carefully crafted, somewhat accurate soundfont imitating the legendary Roland SC-55 synthesizer. While the overall sound quality may be a tad unimpressive (most of the samples were taken from the Microsoft GS Wavetable Synth, actually), the soundfont is very lightweight—just over 7 MB!
+A carefully crafted, somewhat accurate soundfont imitating the legendary Roland SC-55 synthesizer. While the overall sound quality may be a tad unimpressive (most of the samples were taken from the Microsoft GS Wavetable Synth, actually), the soundfont is very lightweight—just over 6 MB!
 
 The Roland SC-55 is the sound module that's basically a millennial's childhood nostalgia. It was released all the way back in 1991, and it's still celebrated to this day. The synthesizer served as a successor to the Roland MT-32, which was notorious for not meeting any MIDI standard (it came to being years before General MIDI happened), and was the intended "sound output thing" for playing back the soundtrack composed for Doom.
 
