@@ -5,3 +5,5 @@
 - GeneralUser GS (S. Christian Collins)
 - 8MBGM Enhanced (holbred)
 - Roland MV-30 (SC-55 Version) (MAG2001)
+- Roland MV-30 (SC-55 Version 2.0) (MAG2001)
+- Roland SC-55 Soundfont series (EmperorGrieferus)
